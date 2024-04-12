@@ -1,27 +1,15 @@
-# AngularBlog
+# Meu Blog Angular (Projeto de Aprendizado)
+Este é um projeto muito básico que desenvolvi para testar minhas habilidades iniciais com Angular. É um blog simples que permite visualizar postagens.
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 17.3.1.
+## Funcionalidades
 
-## Development server
+- Visualização de postagens existentes
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
+## Tecnologias Utilizadas
 
-## Code scaffolding
+- Angular: Utilizei o Angular para criar a estrutura do projeto, gerenciar o estado da aplicação e manipular a interface do usuário.
+- HTML/CSS: Usei HTML e CSS para criar a estrutura e o estilo básico do blog.
+- Utilizei Banco de Dados Fake para simplificar o projeto
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
-
-## Build
-
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
-
-## Running unit tests
-
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
-
-## Running end-to-end tests
-
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
-
-## Further help
-
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+## Licença
+Este projeto é licenciado sob a Licença MIT - veja o arquivo LICENSE para mais detalhes.
